@@ -29,7 +29,7 @@
               <sonar.host.url>
                  http://localhost:9000
               </sonar.host.url>
-              <sonar.login>sqp_ee74d5d2943a3f041da3188dffc4cddcf8a041fe</sonar.login>
+              <sonar.login>sqp_2ea253208ba810b4c80f123d84583f932e536991</sonar.login>
               <-- <sonar.login>admin</sonar.login>
               <sonar.password>218T1a4239.</sonar.password> -->
            </properties>
